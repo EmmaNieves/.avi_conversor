@@ -1,0 +1,5 @@
+customtkinter
+ffmpeg-python
+imageio-ffmpeg
+pywin32
+Pillow

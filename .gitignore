@@ -1,0 +1,30 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# Video files (avoid committing large media files)
+*.mp4
+*.avi
+*.AVI
+*.mov
+*.mkv
+
+# Temporary preview images
+avi_preview_*.png
